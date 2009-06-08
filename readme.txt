@@ -1,0 +1,32 @@
+=== Mood Personalizer ===
+Creator:Turcu Ciprian (nick: Cy21 & wp-user_name: ciprian_vb)
+Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ciprian_vb%40yahoo%2ecom&lc=US&item_name=Plugin%20Download&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
+Contributors: ciprian_vb
+Tags: background, color, change, plugin, images, image, pictures, picture, widget, emoticon, icon
+Requires at least: 2.7
+Tested up to: 2.7
+Stable tag: trunk
+
+Widget that you can place in your sidebar wherever… and that will show the blogger current mood by selecting one of the 8(so far) emoticons available.
+
+== Description ==
+
+widget that you can place in your sidebar wherever… and that will show the blogger current mood by selecting one of the 8(so far) emoticons available.
+
+== Installation ==
+
+Upload the Mood Personalizer plugin to your blog(in the wp-content/plugins directory) (be sure to upload the "mood-personalizer" directory or it  will not work.
+
+Activate it in the plugins menu in your wp-admin control panel and voila! you're done!
+
+== Screenshots ==
+
+1. Admin Page
+2. Example in Sidebar
+
+== Frequently Asked Questions ==
+
+= How to select a new Emoticon? =
+
+Go in the admin panel under Settings -> Mood Personalizer and click the icon you want to use
+That's it!
