@@ -7,7 +7,7 @@ Requires at least: 2.7
 Tested up to: 2.7
 Stable tag: trunk
 
-Widget that you can place in your sidebar wherever… and that will show the blogger current mood by selecting one of the 8(so far) emoticons available.
+Widget that you can place in your sidebar and show your current mood.
 
 == Description ==
 
