@@ -72,6 +72,22 @@ width: 640px;
 <img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/8.2.jpg" alt="Mood Personalizer mood image"/>
 <input type="radio" name="xMPPic" value="8.2.jpg" <?php if($xMPPictureB=="8"){echo "checked";}?> /> Scared
 </div>
+<div class="xMPDiv">
+<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/9.2.jpg" alt="Mood Personalizer mood image"/>
+<input type="radio" name="xMPPic" value="9.2.jpg" <?php if($xMPPictureB=="9"){echo "checked";}?> /> Smiling
+</div>
+<div class="xMPDiv">
+<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/10.2.jpg" alt="Mood Personalizer mood image"/>
+<input type="radio" name="xMPPic" value="10.2.jpg" <?php if($xMPPictureB=="10"){echo "checked";}?> /> Furious
+</div>
+<div class="xMPDiv">
+<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/11.2.jpg" alt="Mood Personalizer mood image"/>
+<input type="radio" name="xMPPic" value="11.2.jpg" <?php if($xMPPictureB=="11"){echo "checked";}?> /> Happy
+</div>
+<div class="xMPDiv">
+<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/12.2.jpg" alt="Mood Personalizer mood image"/>
+<input type="radio" name="xMPPic" value="12.2.jpg" <?php if($xMPPictureB=="12"){echo "checked";}?> /> Scared
+</div>
 </div>
 </p>
 <p>

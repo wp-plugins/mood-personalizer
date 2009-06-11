@@ -2,11 +2,11 @@
 /*
 
 Plugin Name: Mood Personalizer
-Plugin URI: http://appchain.com/2009/06/mood-personalizer-10-awaiting-approval/
+Plugin URI: http://www.appchain.com/2009/06/mood-personalizer-11mood-personalizer-11/
 Description: Show the mood of the blogger using personalized emoticons
 Author: Turcu Ciprian
 License: GPL
-Version: 1.0
+Version: 1.1
 Author URI: http://www.appchain.com
 
 */
