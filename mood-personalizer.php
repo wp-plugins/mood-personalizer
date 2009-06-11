@@ -17,7 +17,7 @@ Author URI: http://www.appchain.com
 	$xMPPicture = get_option('xMPPic');
 		?>
 		<div id="mood_personalizer" class="widget_mood_personalizer">
-		<h4 class="widgettitle">How i feel today:</h4>
+		<h4 class="widgettitle">How I feel today:</h4>
 			<ul>
 				<li>
 					<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/<?php echo $xMPPicture;?>" alt="Mood Personalizer mood image"/>
