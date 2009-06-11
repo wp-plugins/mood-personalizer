@@ -3,8 +3,8 @@ Creator:Turcu Ciprian (nick: Cy21 & wp-user_name: ciprian_vb)
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ciprian_vb%40yahoo%2ecom&lc=US&item_name=Plugin%20Download&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Contributors: ciprian_vb
 Tags: background, color, change, plugin, images, image, pictures, picture, widget, emoticon, icon
-Requires at least: 2.7
-Tested up to: 2.7
+Requires at least: 2.3
+Tested up to: 2.8
 Stable tag: trunk
 
 Widget that you can place in your sidebar and show your current mood.
