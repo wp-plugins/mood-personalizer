@@ -15,6 +15,7 @@ widget that you can place in your sidebar and that will show the blogger current
 You can select 4 different sizes, depending on the size in width of your sidebar(so it fits just right).
 
 Update 1.1: 4 more emoticons added
+Update 1.2: Dynamic Title(changeable from widget page)
 
 == Installation ==
 
@@ -26,6 +27,7 @@ Activate it in the plugins menu in your wp-admin control panel and voila! you're
 
 1. Admin Page
 2. Example in Sidebar
+3. Example in widget page
 
 == Frequently Asked Questions ==
 
