@@ -16,6 +16,7 @@ You can select 4 different sizes, depending on the size in width of your sidebar
 
 Update 1.1: 4 more emoticons added<br/>
 Update 1.2: Dynamic Title(changeable from widget page)
+Update 1.2.1: Fixed a small design issue and aligned mood icon to center
 
 == Installation ==
 
