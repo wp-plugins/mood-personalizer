@@ -12,11 +12,12 @@ Widget that you can place in your sidebar and show your current mood.
 == Description ==
 
 widget that you can place in your sidebar and that will show the blogger current mood by selecting one of the 12(so far) emoticons available. 
-You can select 4 different sizes, depending on the size in width of your sidebar(so it fits just right).
+You can select 4 different sizes, depending on the size in width of your sidebar(so it fits just right).<br/><br/>
 
 Update 1.1: 4 more emoticons added<br/>
-Update 1.2: Dynamic Title(changeable from widget page)
-Update 1.2.1: Fixed a small design issue and aligned mood icon to center
+Update 1.2: Dynamic Title(changeable from widget page)<br/>
+Update 1.2.1: Fixed a small design issue and aligned mood icon to center<br/>
+Update 1.0.1 Small other important design issue<br/>
 
 == Installation ==
 

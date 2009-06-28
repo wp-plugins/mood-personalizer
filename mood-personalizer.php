@@ -6,21 +6,25 @@ Plugin URI: http://www.appchain.com/2009/06/mood-personalizer-1-2/
 Description: Show the mood of the blogger using personalized emoticons
 Author: Turcu Ciprian
 License: GPL
-Version: 1.2.1
+Version: 1.2.2
 Author URI: http://www.appchain.com
 */
 
 
 // This prints the widget
-	function xWidgetShow() {
+	function xWidgetShow($args) {
+	
+	extract( $args );
 	$xMPPicture = get_option('xMPPic');
+	$xMPTitle = get_option('xMPTitle');
 		?>
-		<div id="mood_personalizer" class="widget_mood_personalizer">
-		<h4 class="widgettitle"><?php echo get_option('xMPTitle');?></h4>
-			<div class="widgetcontent" style="text-align:center;">
+
+		<?php echo $before_title.$xMPTitle.$after_title;?>
+			<?php echo $before_widget;?>
+			<div style="text-align:center;">
 					<img src="<?php bloginfo('url'); ?>/wp-content/plugins/mood-personalizer/images/<?php echo $xMPPicture;?>" alt="Mood Personalizer mood image"/>
 			</div>
-		</div>
+			<?php echo $after_widget;?>
 		<?php
 		
 
