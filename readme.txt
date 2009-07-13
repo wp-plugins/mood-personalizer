@@ -18,6 +18,7 @@ Update 1.1: 4 more emoticons added<br/>
 Update 1.2: Dynamic Title(changeable from widget page)<br/>
 Update 1.2.1: Fixed a small design issue and aligned mood icon to center<br/>
 Update 1.0.1 Small other important design issue<br/>
+Update 1.2.3 Small admin_menu fix for wp 2.8.1
 
 == Installation ==
 
