@@ -6,7 +6,7 @@ Plugin URI: http://www.appchain.com/2009/06/mood-personalizer-1-2/
 Description: Show the mood of the blogger using personalized emoticons
 Author: Turcu Ciprian
 License: GPL
-Version: 1.2.2
+Version: 1.2.3
 Author URI: http://www.appchain.com
 */
 
@@ -75,7 +75,7 @@ function xMPApiInit() {
 
 // Delay plugin execution to ensure Dynamic Sidebar has a chance to load first
 add_action('plugins_loaded', 'xMPWidgetInit');
-add_action('admin_init', 'xMPApiInit');
+add_action('admin_menu', 'xMPApiInit');
 
 
  
