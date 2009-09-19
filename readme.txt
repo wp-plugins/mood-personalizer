@@ -10,10 +10,6 @@ Stable tag: trunk
 Widget that you can place in your sidebar and show your current mood.
 
 == Description ==
-<b>DONATE!</b>
-<br/><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8322585">DONATE HERE</a> - (any ammount using paypal or credit card)
-<br/>
-<br/>
 widget that you can place in your sidebar and that will show the blogger current mood by selecting one of the 12(so far) emoticons available. 
 You can select 4 different sizes, depending on the size in width of your sidebar(so it fits just right).<br/><br/>
 
@@ -22,7 +18,10 @@ Update 1.2: Dynamic Title(changeable from widget page)<br/>
 Update 1.2.1: Fixed a small design issue and aligned mood icon to center<br/>
 Update 1.0.1 Small other important design issue<br/>
 Update 1.2.3 Small admin_menu fix for wp 2.8.1
-
+<br/><br/>
+<b>DONATE!</b>
+<br/><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8322585">DONATE HERE</a> - (any ammount using paypal or credit card)
+<br/>
 == Installation ==
 
 Upload the Mood Personalizer plugin to your blog(in the wp-content/plugins directory) (be sure to upload the "mood-personalizer" directory or it  will not work.
